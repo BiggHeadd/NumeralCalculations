@@ -1,4 +1,7 @@
 # coding: utf-8
+"""
+commit "Chart 1 code"
+"""
 import math
 
 # config
